@@ -1,0 +1,12 @@
+{
+  "name": "webpack-add-styles-to-document",
+  "version": "1.2.0",
+  "description": "Append Webpack CSS output to the DOM.",
+  "main": "index.js",
+  "author": "Christian Lewis <ctj.lewis@icloud.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "webpack": "^5.36.2"
+  }
+}
